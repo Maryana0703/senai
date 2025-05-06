@@ -1,0 +1,75 @@
+.container{
+width: 1280px;
+height: auto;
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+
+}
+
+.box{
+width: 300px;
+height: auto;
+margin: 10px;
+border-radius: 16px;
+border: 2px  solid black; 
+padding: 20px;
+}
+
+.botao{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    padding: 5%;
+    border-radius: 16px;
+    color:rgb(13, 32, 95); 
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+
+}
+
+.box p{
+  color: rgb(99, 96, 96);
+    
+}
+ 
+.banner{
+  background-image: url(https://www.itau.com.br/media/dam/m/298da1ca934e66fb/original/Reneg_Rotativo_desktop_1280x540px.png);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-content: center;
+  
+}
+ 
+.botao1{
+  width: 118px;
+  color: white;
+  text-decoration: none;
+  border:1px solid white; 
+  border-radius: 8%;
+  padding: 10px 10px 10px 10px;
+  display: block;
+  margin-top: 30px;
+}
+  
+.texto{
+  
+  color: white;
+  margin: 20px auto 20px 400px;
+}
+body{
+  font-family: sans-serif;
+}
+
+section{
+  margin:  50px auto 20px 400px;
+
+}
+.box img{
+  width: 300px;
+  margin: none;
+}
+
+

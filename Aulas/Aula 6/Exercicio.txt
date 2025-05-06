@@ -1,0 +1,18 @@
+<html>
+  
+  <head>
+    <title> Exercício 6 </html>
+  </head>
+
+  <body> 
+     <h1> Medicamentos controlados </h1>
+       <p> Os medicamentos controlados  o Brasil são classificados em categorias, incluindo substâncias entorpecentes e psicotrópicas, conforme a Portaria 344/98 da ANVISA. As categorias incluem:
+       
+  </body>
+
+
+
+
+
+
+</html> 
