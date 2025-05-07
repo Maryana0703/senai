@@ -5,12 +5,23 @@
     background-color: hsl(194, 73%, 71%);
     margin: 0 auto;
 } 
-
-.container img{
-    width: 100%;
+img {
+    width: 45%;
+    align-content: center;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
 }
 
 .container h2{
     text-align: center;
-    color: blue;
+    color: white;
+    
 }
+
+.container a{
+    text-decoration: none;
+}
+
+
+
