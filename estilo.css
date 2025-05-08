@@ -4,6 +4,9 @@
     height: auto;
     background-color: hsl(194, 73%, 71%);
     margin: 0 auto;
+    border-radius: 25px;
+    padding: 20px;
+    border: 2px solid hsl(224, 72%, 66%);
 } 
 img {
     width: 45%;
@@ -11,6 +14,7 @@ img {
     border-radius: 50px;
     display: block;
     margin: 0 auto;
+    border: 2px solid #ccccf5;
 }
 
 .container h2{
@@ -21,7 +25,32 @@ img {
 
 .container a{
     text-decoration: none;
+    
 }
 
+.banner{
+    display: flex;
+    margin: 0 auto;
+    padding: 20px 50px 20px 50px;   
 
 
+}
+
+.box{
+    margin: 0 auto;
+}
+
+.container p{
+    text-align: center;
+    color: hwb(218 6% 72%);
+    font-size: x-large;
+}
+
+.container a{
+    color: #2c2c4d;
+
+}
+
+ul{
+    list-style-type: square;
+}
