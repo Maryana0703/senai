@@ -1,0 +1,16 @@
+@font-face {
+    font-family:"inter";
+    src: url(../fonte/inter/Inter_18pt-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family:"roboto";
+    src: url(../fonte/roboto/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family:"freckle";
+    src: url(../fonte/freckle/FreckleFace-Regular.ttf);
+    
+}

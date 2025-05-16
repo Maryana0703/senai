@@ -1,0 +1,18 @@
+.head h2{ 
+    color: pink;
+    font-family:"inter";
+    font-weight: 800;
+    font-style: italic;
+}
+
+.head p{
+    color:purple;
+    font-family:"roboto";
+    font-weight: 500;
+}
+.head h1{
+    color: blue;
+    font-family: "freckle";
+ 
+
+}
